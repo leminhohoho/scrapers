@@ -1,0 +1,6 @@
+{
+    "name": "scrapers",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "updateRemoteUserUID": true,
+    "postCreateCommand": "echo 'Scrapers container ready'"
+}
